@@ -1,4 +1,4 @@
-# login_with-facabo
+# login_with-facabook
 avvalo pip install social-auth-app-django paketini ornatib olamiz
 
 keyin esa settings.py ga kirib install_appsga  'social_django', qushib qo'yamiz qoyamiz
